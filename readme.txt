@@ -1,3 +1,5 @@
+txt文件放到src文件夹中
+
 There are some commands.
 	help --to show this manual.
 	start -- to start reciting
